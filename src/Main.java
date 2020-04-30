@@ -23,6 +23,8 @@ public class Main {
         Info.Persona(edad, Nombre);
         Info.Persona(Nombre);
 	Info.Persona();
+        
+        System.out.println("Esta es una parte editada del proyecto clonado");
     }
     
 }
